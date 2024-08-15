@@ -35,8 +35,12 @@ Dynamic analysis highlights the market's sensitivity to extreme events, with not
 ### Conclusion
 
 This study concludes that the Shanghai crude oil futures market is highly influenced by global markets, particularly the WTI crude oil market. The findings suggest that to enhance market stability and international influence, the Chinese market should focus on improving its independence and resilience, and continue reforms to strengthen its competitive edge globally.And some result pictures shown as follows：
+![image](https://github.com/user-attachments/assets/bf71ebf4-14d8-4024-a520-c51b55217f49)
+
 ![image](https://github.com/user-attachments/assets/da8edce1-798e-48a0-a129-bc22e898c5ca)
+
 ![image](https://github.com/user-attachments/assets/990002fb-5732-44b3-ace7-58b4cab05198)
+
 ![image](https://github.com/user-attachments/assets/2aaf954c-5b9e-44b7-9727-1f9f6cc0b276)
 
 
